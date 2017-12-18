@@ -1,7 +1,7 @@
 # project speicifc files
 core/settings/local.py
 core/settings/production.py
-
+geckodriver.log
 # General
 .DS_Store
 .AppleDouble
