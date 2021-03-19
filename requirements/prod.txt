@@ -4,7 +4,7 @@ Django==2.0
 django-oauth-toolkit==1.0.0
 djangorestframework==3.7.3
 idna==2.6
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 oauthlib==2.0.6
 pytz==2017.3
